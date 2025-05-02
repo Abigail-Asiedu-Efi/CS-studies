@@ -34,7 +34,10 @@ This file contains links, references, and resources we've used and/or are using 
 ## Cyber Security
 
 - [TryHackMe](https://tryhackme.com/)
+- [Linux Foundation Training](https://training.linuxfoundation.org)
 - [Hack The Box Academy](https://academy.hackthebox.com/)
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+- [Cisco Networking Academy](https://netacad.com)
 
 ---
 
