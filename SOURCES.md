@@ -7,6 +7,7 @@ This file contains links, references, and resources we've used and/or are using 
 ## General Computer Science
 
 - [CS50 – Harvard's Intro to Computer Science](https://cs50.harvard.edu/)
+- [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 
 ---
@@ -42,6 +43,28 @@ This file contains links, references, and resources we've used and/or are using 
 - [Git Handbook by GitHub](https://guides.github.com/introduction/git-handbook/)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Docs](https://docs.github.com/en)
+
+---
+
+## Documentation  & Markdown
+
+### Markdown Basics
+
+- [Markdown Guide (Beginner to Advanced)](https://www.markdownguide.org/)
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Learn Markdown in 10 Minutes](https://www.markdowntutorial.com/)
+
+### Writing Good Documentation
+
+- [Write the Docs: Writing Great Documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+- [GitHub Docs: Documenting your projects](https://docs.github.com/en/get-started/quickstart/set-up-a-repository#documenting-your-project-with-a-readme)
+- [ReadMe.com – API Docs & General Writing Tips](https://docs.readme.com/docs/how-to-write-great-documentation)
+
+### README Examples & Templates
+
+- [Awesome README Templates](https://github.com/matiassingers/awesome-readme)
+- [Make a README – Simple Readme Generator](https://www.makeareadme.com/)
 
 ---
 
