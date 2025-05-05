@@ -9,7 +9,6 @@ This lesson demonstrates the use of constants and the `math` package in Go.
 - Type conversion (`float64` to `int64`)
 - Using built-in math functions (e.g., `math.Sin()`)
 
-
 ## What the Program Does
 
 1.Prints a string constant.
@@ -18,23 +17,22 @@ This lesson demonstrates the use of constants and the `math` package in Go.
 4.Uses math.Sin() to compute and print the sine of a constant.
 
 ## Code summary
--This Go program demonstrates:
--Declaring constants (string and numeric)
+
+This Go program demonstrates:
+
+- Declaring constants (string and numeric)
 - Performing arithmetic operations with constants
 - Using scientific notation (e.g., 9e20)
 - Type conversion from float64 to int64
 - Using the math package to calculate sine
 
-
 ## How to Run
 
--Open your terminal
+- Open your terminal
 - Navigate to the directory where the file is located:
      cd ~/Desktop/golang/lesson3-constants
-
 - Run using the command:
     go run lesson3-constants.go
-
 
 ## Output
 

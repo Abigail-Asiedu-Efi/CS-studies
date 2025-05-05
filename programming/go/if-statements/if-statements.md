@@ -1,10 +1,10 @@
-Lesson 5: If-Else Conditions in Go
+# Lesson 5: If-Else Conditions in Go
 
+## Overview
 
-## Overview:
 This program explores conditional logic using if, else if, and else blocks in Go. It demonstrates checking for even/odd numbers, divisibility, logical OR operations, and scoped variable declaration in conditionals.
 
-## Code Summary:
+## Code Summary
 
   1. Even or Odd:
      - Checks if 9 is divisible by 2.
