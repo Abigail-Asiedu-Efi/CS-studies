@@ -1,7 +1,17 @@
 
 # Lesson 7: Arrays in Go
 
-NOTE: Please add here a brief explanation of what an 'array' is and possible scenarios of when to use them.
+An array is simply a data structure that consists of a collection of elements of the same kind. It is a numbered sequence of elements of a specific length which is fixed and cannot grow or sink when declared.
+In Go, arrays start from a zero-based index, must be of the same kind and have fixed length. Example; t [4]string contains 4 string vales.
+
+## When to Use Arrays
+
+-Arrays can be used when the exact number of elements is known ahead of time.
+-They can be used when performance with minimal memory overhead is needed.
+-They can also be used when working with embedded systems where the allocation of dynamic memory is not preferred.
+
+Arrays are considered as building blocks hence slices are used more often in Go.
+
 
 ## Overview
 

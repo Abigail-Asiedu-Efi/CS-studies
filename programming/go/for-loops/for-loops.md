@@ -1,5 +1,22 @@
 # Lesson 4: For Loops in Go
 
+## Brief description on for-loops
+A for loop is a repetition control structure used to repeat a block of code multiple times so far as the condition is true and terminates only when it becomes false.
+It is the only looping construct in Go. Other loops such as while, do-while etc. are not used in Go like they used in other programming languages.
+The for-loop has three parts; initialization(j ;= 1), condition(j <=5 )and advancement to next iteration(j++). 
+e.g for j := 1; j <= 5; j++ {
+    ....
+}
+
+## When to used for-loops
+-For-loop is used tasks are needed to be repeated for a certain number of times.
+-They are used for iterating over collections such as arrays and slices.
+-They can also be used to scan through strings or files.
+
+
+Note that, loops that are infinite (has no condition, initialization) excutes continuously until you break it.
+
+
 ## Overview
 
 This program demonstrates the different types of for-loops available in Go. Go only has one looping construct—`for`—but it can be used in various ways: like a while loop, a traditional C-style loop, a range loop, and even infinite loops. You'll also see how `break` and `continue` control flow inside loops.

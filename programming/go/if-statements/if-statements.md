@@ -1,5 +1,15 @@
 # Lesson 5: If-Else Conditions in Go
 
+## Brief description
+An if statement is used to execute a specified block of code that meets a specific condition.Thus, the code is excuted only when a given condition is true.The else stament is used as a form of default code that should run when the condition given appears to be false.
+
+## When to use if-staments
+-If statement is used when checking input values and for data validation;
+-Making decisions in flow;
+-Error handling;
+-As well as controlling logic in loops or functions
+
+
 ## Overview
 
 This program explores conditional logic using if, else if, and else blocks in Go. It demonstrates checking for even/odd numbers, divisibility, logical OR operations, and scoped variable declaration in conditionals.
