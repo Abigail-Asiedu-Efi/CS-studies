@@ -1,14 +1,17 @@
 
- Lesson 7: Arrays in Go
+# Lesson 7: Arrays in Go
 
+NOTE: Please add here a brief explanation of what an 'array' is and possible scenarios of when to use them.
 
-## Overview:
+## Overview
+
 This lesson demonstrates how to work with arrays in Go, including:
+
 - Declaring and initializing arrays
 - Setting and getting array values
 - Using multi-dimensional arrays
 
-## Code Summary:
+## Code Summary
 
 1. Declare an array of 5 integers:
    var m [5]int → initialized with zero values
@@ -41,14 +44,16 @@ This lesson demonstrates how to work with arrays in Go, including:
    twoD = [2][3]int{{1, 2, 3}, {1, 2, 3}}
    Output: 2d: [[1 2 3] [1 2 3]]
 
-➤ How to Run:
+## How to Run:
+
   1. Save the code as: lesson7-arrays.go
   2. Open terminal and navigate to the folder:
      cd ~/Desktop/golang/Arrays
   3. Run the program:
      go run lesson7-arrays.go
 
-## Output:
+## Output
+
   emp:  [0 0 0 0 0]
   set:  [0 0 0 0 100]
   get:  100

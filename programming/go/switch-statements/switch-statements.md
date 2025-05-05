@@ -1,27 +1,30 @@
-Lesson 6: Switch Statements in Go
+# Lesson 6: Switch Statements in Go
 
+## Overview
 
-## Overview:
 This lesson explores Go’s switch statements with various use cases:
+
 - Basic value matching
 - Multiple conditions in a case
 - Switch without an expression (if-else style)
 - Type switching using interfaces
 
-## Code Summary:
+## Code Summary
 
 1. Basic switch:
+
    - Variable i := 2
    - Switch checks i:
-     - case 1: prints "one"
-     - case 2: prints "two"
-     - case 3: prints "three"
+      - case 1: prints "one"
+      - case 2: prints "two"
+      - case 3: prints "three"
    Output: "Write 2 as two"
 
-2. Switch on time:
+2. Switch on time
+
    - Checks the current day:
-     - If Saturday or Sunday -> "It's the weekend"
-     - Else -> "It's a weekday"
+   - If Saturday or Sunday -> "It's the weekend"
+   - Else -> "It's a weekday"
 
 3. Switch without condition:
    - Checks current hour:
@@ -33,14 +36,16 @@ This lesson explores Go’s switch statements with various use cases:
    - whatAmI(1)      -> "I'm an int"
    - whatAmI("hey")  -> "Don't know type string"
 
-## How to Run:
+## How to Run
+
   1. ctrl + s to save the code as: lesson6-switch.go
   2. In terminal, navigate to your folder:
      cd ~/Desktop/golang/Switch
   3. Run the code:
      go run lesson6-switch.go
 
-## Output (varies slightly with time/day):
+## Output (varies slightly with time/day)
+
   Write 2 as two  
   It's a weekday  ("It's the weekend")  
   It's before noon  ("It's after noon")  
