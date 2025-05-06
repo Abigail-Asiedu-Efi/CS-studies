@@ -1,5 +1,13 @@
 # Lesson 6: Switch Statements in Go
 
+# Brief description
+A switch statement is a type of control flow that allows the execution of blocks of codes depending on the value of a variable.
+
+## When is switch-statement used
+- A switch-statement is used when comparing a single value against several possible values;
+- It is used when there are multiple conditions and they need to be organised clearly;
+-It is also used to simplify if-else statements.
+
 ## Overview
 
 This lesson explores Go’s switch statements with various use cases:
