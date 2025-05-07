@@ -1,6 +1,7 @@
 
 # Lesson 7: Arrays in Go
 
+## Brief Description of arrays
 An array is simply a data structure that consists of a collection of elements of the same kind. It is a numbered sequence of elements of a specific length which is fixed and cannot grow or sink when declared.
 In Go, arrays start from a zero-based index, must be of the same kind and have fixed length. Example; t [4]string contains 4 string vales.
 
